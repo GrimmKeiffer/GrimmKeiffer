@@ -11,16 +11,15 @@
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                          | Associated Project         |
+|------------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis           | <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>|
+| Network Traffic Monitoring                     | <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>|
+| Security Automation with Shuffle SOAR          | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution       | <a href="https://google.com">Detection Lab</a>|
+| Case Management with TheHive                   | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
@@ -35,14 +34,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Monday%20Monitor-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Windows%20Event%20Logs-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Monday%20Monitor-blue?logo=monday&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Windows%20Event%20Logs-red?logo=windows&logoColor=white&style=for-the-badge" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=ELK&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,5 +53,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM
+- Network Analysis
