@@ -3,7 +3,7 @@
 
 
 
-"Hi, I'm John D. Keiffer, a cybersecurity professional with over six years of experience in network security and technical operations. I've led teams in optimizing network performance, implementing advanced security measures, and managing complex technical projects. My expertise includes RF sweeping, fiber testing, and comprehensive threat assessment. Currently, I hold certifications such as CompTIA Network+, Security+, CySA+ and the Google CyberSecurity Certificate, and I'm passionate about leveraging my skills to enhance security frameworks. I'm dedicated to safeguarding critical assets and ensuring robust network performance through proactive detection and response strategies."
+Hi, I'm John D. Keiffer, a cybersecurity professional with over six years of experience in network security and technical operations. I've led teams in optimizing network performance, implementing advanced security measures, and managing complex technical projects. My expertise includes RF sweeping, fiber testing, and comprehensive threat assessment. Currently, I hold certifications such as CompTIA Network+, Security+, CySA+ and the Google CyberSecurity Certificate, and I'm passionate about leveraging my skills to enhance security frameworks. I'm dedicated to safeguarding critical assets and ensuring robust network performance through proactive detection and response strategies.
 
 ## Objective
 
