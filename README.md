@@ -25,33 +25,33 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Snort-orange?logo=snort&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/NetworkMiner-purple?logo=networkminer&logoColor=white&style=for-the-badge" />
+    <a href=""><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/Snort-orange?logo=snort&logoColor=white&style=for-the-badge" />
+    <a href=""><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/NetworkMiner-purple?logo=networkminer&logoColor=white&style=for-the-badge" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Monday%20Monitor-blue?logo=monday&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Windows%20Event%20Logs-red?logo=windows&logoColor=white&style=for-the-badge" />
+    <a href=""><img src="https://img.shields.io/badge/Wazuh-blue?logo=wazuh&logoColor=white&style=for-the-badge" />
+    <a href=""><img src="https://img.shields.io/badge/Monday%20Monitor-blue?logo=monday&logoColor=white&style=for-the-badge" />
+    <a href=""><img src="https://img.shields.io/badge/Windows%20Event%20Logs-red?logo=windows&logoColor=white&style=for-the-badge" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=ELK&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=ELK&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href=""><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
+<a href=""><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href=""><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href=""><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 </div>
 
 ## Projects
-- SIEM
-- Network Analysis
+- <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>
+- <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>
