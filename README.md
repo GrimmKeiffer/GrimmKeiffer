@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <a href=""><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
-<a href=""><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main"><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 <a href=""><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 <a href=""><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 </div>
@@ -55,3 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>
 - <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>
+
+## Certification Write ups
+- <a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main">Network+</a>
