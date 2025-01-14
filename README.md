@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm John D. Keiffer, a cybersecurity professional with over six years of experience in network security and technical operations. I've led teams in optimizing network performance, implementing advanced security measures, and managing complex technical projects. My expertise includes RF sweeping, fiber testing, and comprehensive threat assessment. Currently, I hold certifications such as CompTIA Network+, Security+, CySA+ and the Google CyberSecurity Certificate, and I'm passionate about leveraging my skills to enhance security frameworks. I'm dedicated to safeguarding critical assets and ensuring robust network performance through proactive detection and response strategies.
+I'm John D. Keiffer, a cybersecurity professional with over six years of experience in network security and technical operations. I've led teams in optimizing network performance, implementing advanced security measures, and managing complex technical projects. My expertise includes RF sweeping, fiber testing, and comprehensive threat assessment. Currently, I hold certifications such as CompTIA Network+, Security+, CySA+ and the Google CyberSecurity Certificate, and I'm passionate about leveraging my skills to enhance security frameworks. I'm dedicated to safeguarding critical assets and ensuring robust network performance through proactive detection and response strategies.
 
 ## Objective
 
@@ -46,10 +46,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<a href=""><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/GoogleCS/tree/main"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
 <a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main"><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<a href=""><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<a href=""><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/SecurityPlus/tree/main"><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/CySAplus/tree/main"><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 </div>
 
 ## Projects
@@ -57,4 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>
 
 ## Certification Write ups
+- <a href="https://github.com/GrimmKeiffer/GoogleCS/tree/main">Google Cybersecurity Certification</a>
 - <a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main">Network+</a>
+- <a href="https://github.com/GrimmKeiffer/SecurityPlus/tree/main">Security+</a>
+- <a href="https://github.com/GrimmKeiffer/CySAplus/tree/main">CySA+</a>
