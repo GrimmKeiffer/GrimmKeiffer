@@ -16,10 +16,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis           | <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>|
 | Network Traffic Monitoring                     | <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>|
-| Security Automation with Shuffle SOAR          | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution       | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                   | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
+| WIP                                            | <a href="https://google.com">WIP</a>|
+| WIP                                            | <a href="https://google.com">WIP</a>|
+| WIP                                            | <a href="https://google.com">WIP</a>|
+| WIP                                            | <a href="https://google.com">WIP</a>|
 
 ## Tools
 
