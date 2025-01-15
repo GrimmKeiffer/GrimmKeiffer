@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis           | <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>|
 | Network Traffic Monitoring                     | <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>|
-| WIP                                            | <a href="https://google.com">WIP</a>|
+| Network and Log analysis                       | <a href="https://github.com/GrimmKeiffer/Snort">SNORT</a>|
 | WIP                                            | <a href="https://google.com">WIP</a>|
 | WIP                                            | <a href="https://google.com">WIP</a>|
 | WIP                                            | <a href="https://google.com">WIP</a>|
@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <a href=""><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href=""><img src="https://img.shields.io/badge/Snort-orange?logo=snort&logoColor=white&style=for-the-badge" />
+    <a href="https://github.com/GrimmKeiffer/Snort"><img src="https://img.shields.io/badge/Snort-orange?logo=snort&logoColor=white&style=for-the-badge" />
     <a href=""><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <a href=""><img src="https://img.shields.io/badge/NetworkMiner-purple?logo=networkminer&logoColor=white&style=for-the-badge" />
 </div>
@@ -46,18 +46,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<a href="https://github.com/GrimmKeiffer/GoogleCS/tree/main"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
-<a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main"><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<a href="https://github.com/GrimmKeiffer/SecurityPlus/tree/main"><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
-<a href="https://github.com/GrimmKeiffer/CySAplus/tree/main"><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/GoogleCS"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certification-white?logo=google&logoColor=black&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus"><img src="https://img.shields.io/badge/Network%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/SecurityPlus"><img src="https://img.shields.io/badge/Security%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
+<a href="https://github.com/GrimmKeiffer/CySAplus"><img src="https://img.shields.io/badge/CySA%2B%20-darkred?logo=comptia&logoColor=white&style=for-the-badge" />
 </div>
 
 ## Projects
 - <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>
 - <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>
+- <a href="https://github.com/GrimmKeiffer/Snort">SNORT</a>
 
 ## Certification Write ups
-- <a href="https://github.com/GrimmKeiffer/GoogleCS/tree/main">Google Cybersecurity Certification</a>
-- <a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus/tree/main">Network+</a>
-- <a href="https://github.com/GrimmKeiffer/SecurityPlus/tree/main">Security+</a>
-- <a href="https://github.com/GrimmKeiffer/CySAplus/tree/main">CySA+</a>
+- <a href="https://github.com/GrimmKeiffer/GoogleCS">Google Cybersecurity Certification</a>
+- <a href="https://github.com/GrimmKeiffer/CompTIA-NetworkPlus">Network+</a>
+- <a href="https://github.com/GrimmKeiffer/SecurityPlus">Security+</a>
+- <a href="https://github.com/GrimmKeiffer/CySAplus">CySA+</a>
