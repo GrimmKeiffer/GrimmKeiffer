@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis           | <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>|
 | Network Traffic Monitoring                     | <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>|
 | Network and Log analysis                       | <a href="https://github.com/GrimmKeiffer/Snort">SNORT</a>|
-| WIP                                            | <a href="https://google.com">WIP</a>|
+| Network Server Setup                           | <a href="https://github.com/GrimmKeiffer/Server">Server</a>|
 | WIP                                            | <a href="https://google.com">WIP</a>|
 | WIP                                            | <a href="https://google.com">WIP</a>|
 
@@ -56,6 +56,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/GrimmKeiffer/SIEM-Lab">SIEM Lab</a>
 - <a href="https://github.com/GrimmKeiffer/Network-Analysis">Network Monitoring</a>
 - <a href="https://github.com/GrimmKeiffer/Snort">SNORT</a>
+- <a href="https://github.com/GrimmKeiffer/Server">Server</a>
 
 ## Certification Write ups
 - <a href="https://github.com/GrimmKeiffer/GoogleCS">Google Cybersecurity Certification</a>
